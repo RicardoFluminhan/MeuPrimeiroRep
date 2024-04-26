@@ -2,7 +2,7 @@
 
 ## **Ricardo de Oliveira Fluminhan**
 
-### :books:Estudos: Estudo Desenvolvimento de Sistemas no SENAI e aulas no SESI!
+### :books:Estudos: Desenvolvimento de Sistemas no SENAI e aulas no SESI!
 ### :skull_and_crossbones:Idade: 16 anos!
 ### :tv:Séries fav: Sobrenatural, Jojo e Bob Esponja!
 ### :shushing_face::deaf_man:Atividades no tempo livre: Ping Pong e jogos online!
@@ -10,5 +10,7 @@
 ### :globe_with_meridians:Feito: Viagem pelo Brasil por competição de robótica (FLL)!
 ### :earth_americas:Cidade: Presindente Prudente!
 ### :iphone:Instagram: @ricardofluminhan
+
+![Alt text](image-2.png)
 
 ### **Isso é tudo!**
