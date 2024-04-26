@@ -1,1 +1,5 @@
-Seja bem-vindo ao meu Primeiro Repositório!
+# Meu Perfil
+
+## Ricardo de Oliveira Fluminhan
+
+### Estudo Desenvolvimento de Sistemas
